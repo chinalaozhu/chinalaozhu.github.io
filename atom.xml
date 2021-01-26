@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://chinalaozhu.github.io</id>
     <title>chinalaozhu&apos;s blogs</title>
-    <updated>2021-01-22T02:40:35.738Z</updated>
+    <updated>2021-01-26T07:24:10.598Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://chinalaozhu.github.io"/>
     <link rel="self" href="https://chinalaozhu.github.io/atom.xml"/>
@@ -10,6 +10,28 @@
     <logo>https://chinalaozhu.github.io/images/avatar.png</logo>
     <icon>https://chinalaozhu.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, chinalaozhu&apos;s blogs</rights>
+    <entry>
+        <title type="html"><![CDATA[第一章 开发前言]]></title>
+        <id>https://chinalaozhu.github.io/post/di-yi-zhang-kai-fa-qian-yan/</id>
+        <link href="https://chinalaozhu.github.io/post/di-yi-zhang-kai-fa-qian-yan/">
+        </link>
+        <updated>2021-01-26T07:08:17.000Z</updated>
+        <content type="html"><![CDATA[<p><strong>1.1 Java语言概述</strong><br>
+<strong>什么是Java语言</strong><br>
+Java语言是美国Sun公司(Stanford University Network)，在1995年推出的高级编程语言。<br>
+所谓编程语言就是计算机的语言，人们可以使用编程语言对计算机下达命令，让计算机完成人们需要的功能。</p>
+<p><strong>Java语言发展史</strong><br>
+●1995年Java1.0<br>
+●1997年Java1.1<br>
+●1998年Java1.2<br>
+●2000年Java1.3<br>
+●2002年Java1.4<br>
+●2004年Java5<br>
+●2006年Java6<br>
+●2009年Oracle(甲骨文)公司收购Sun公司<br>
+<br>2011年Java7</br></p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[关于塑料毒性]]></title>
         <id>https://chinalaozhu.github.io/post/guan-yu-su-liao-du-xing/</id>
